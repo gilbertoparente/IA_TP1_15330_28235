@@ -229,3 +229,5 @@ for coordenada in cordenadas:
 
 for row in tabuleiro:
     print(row)
+
+    #TRABALHO IA
