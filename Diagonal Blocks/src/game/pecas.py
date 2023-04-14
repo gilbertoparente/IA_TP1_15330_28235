@@ -6,6 +6,7 @@ j = int(input("Escolha a coluna: ")) - 1
 
 tabuleiro = [[0] * 20 for _ in range(20)]
 
+
 lista_pecas = []
 pecas_disponivies = []
 
